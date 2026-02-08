@@ -1,0 +1,33 @@
+# Core dependencies
+Flask==2.3.3
+Flask-CORS==4.0.0
+python-dotenv==1.0.0
+Werkzeug==2.3.7
+
+# Document processing
+PyPDF2==3.0.1
+python-docx==1.1.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+markdown==3.4.4
+python-magic-bin==0.4.14  # Use this for Windows instead of python-magic
+
+# NLP & embeddings
+sentence-transformers==2.2.2
+torch==2.0.1
+transformers==4.31.0
+nltk==3.8.1
+
+# Vector databases
+faiss-cpu==1.7.4
+
+# Utilities
+numpy==1.23.5  # Downgraded for compatibility
+scikit-learn==1.2.2
+tqdm==4.65.0
+colorama==0.4.6
+pyyaml==6.0
+requests==2.31.0
+pydantic==2.1.1
+
+# CSV parsing (no pandas)

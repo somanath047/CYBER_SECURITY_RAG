@@ -1,0 +1,301 @@
+student_id,first_name,last_name,gender,department,semester,email,phone
+1001,Divya,Choudhury,F,Computer Science,6,divya.choudhury1001@uni.in,+91-9286667583
+1002,Kunal,Mishra,M,Civil,8,kunal.mishra1002@uni.in,+91-7797610881
+1003,Nitin,Singh,M,Electrical,4,nitin.singh1003@uni.in,+91-9321368306
+1004,Riya,Reddy,F,Electrical,5,riya.reddy1004@uni.in,+91-7768612749
+1005,Rahul,Mishra,M,Mechanical,6,rahul.mishra1005@uni.in,+91-8145397734
+1006,Amit,Iyer,M,Civil,3,amit.iyer1006@uni.in,+91-9021210400
+1007,Arjun,Reddy,M,Data Science,4,arjun.reddy1007@uni.in,+91-7297175869
+1008,Rahul,Kumar,M,Electrical,6,rahul.kumar1008@uni.in,+91-8682461504
+1009,Arjun,Gupta,M,Civil,8,arjun.gupta1009@uni.in,+91-9995396463
+1010,Kavya,Gupta,F,Civil,7,kavya.gupta1010@uni.in,+91-7278215239
+1011,Anjali,Choudhury,F,Computer Science,4,anjali.choudhury1011@uni.in,+91-9130035137
+1012,Nitin,Reddy,M,Civil,4,nitin.reddy1012@uni.in,+91-6485056513
+1013,Rahul,Choudhury,M,Civil,3,rahul.choudhury1013@uni.in,+91-8850607208
+1014,Riya,Mishra,F,Electrical,2,riya.mishra1014@uni.in,+91-7013163028
+1015,Vikram,Kumar,M,Computer Science,7,vikram.kumar1015@uni.in,+91-9129498788
+1016,Manish,Choudhury,M,Mechanical,2,manish.choudhury1016@uni.in,+91-6978057894
+1017,Ankit,Verma,M,Physics,5,ankit.verma1017@uni.in,+91-8223304778
+1018,Manish,Iyer,M,Data Science,4,manish.iyer1018@uni.in,+91-9271056964
+1019,Amit,Nayak,M,Civil,8,amit.nayak1019@uni.in,+91-6168935307
+1020,Shreya,Das,F,Computer Science,1,shreya.das1020@uni.in,+91-9500148092
+1021,Ankit,Gupta,M,Physics,1,ankit.gupta1021@uni.in,+91-8757932515
+1022,Rohit,Sharma,M,Physics,5,rohit.sharma1022@uni.in,+91-6704207710
+1023,Riya,Choudhury,F,Data Science,3,riya.choudhury1023@uni.in,+91-7776736061
+1024,Neha,Patel,F,Data Science,8,neha.patel1024@uni.in,+91-8007903403
+1025,Arjun,Verma,M,Computer Science,4,arjun.verma1025@uni.in,+91-9075256404
+1026,Pooja,Patel,F,Data Science,1,pooja.patel1026@uni.in,+91-9707116279
+1027,Nitin,Choudhury,M,Mechanical,3,nitin.choudhury1027@uni.in,+91-6514375485
+1028,Neha,Verma,F,Mathematics,4,neha.verma1028@uni.in,+91-7928961725
+1029,Prakash,Sharma,M,Electrical,5,prakash.sharma1029@uni.in,+91-8857128046
+1030,Priya,Das,F,Electrical,8,priya.das1030@uni.in,+91-9892925950
+1031,Sandeep,Kumar,M,Civil,8,sandeep.kumar1031@uni.in,+91-8164643394
+1032,Nisha,Choudhury,F,Computer Science,3,nisha.choudhury1032@uni.in,+91-8023746203
+1033,Neha,Choudhury,F,Electrical,6,neha.choudhury1033@uni.in,+91-7627645485
+1034,Rohit,Mishra,M,Physics,8,rohit.mishra1034@uni.in,+91-8471965437
+1035,Rahul,Nayak,M,Mechanical,2,rahul.nayak1035@uni.in,+91-7251476387
+1036,Riya,Kumar,F,Electrical,1,riya.kumar1036@uni.in,+91-6344675609
+1037,Amit,Choudhury,M,Electrical,7,amit.choudhury1037@uni.in,+91-9256925797
+1038,Anjali,Das,F,English,6,anjali.das1038@uni.in,+91-7011525147
+1039,Manish,Nayak,M,Electrical,4,manish.nayak1039@uni.in,+91-9167902301
+1040,Prakash,Choudhury,M,Electrical,7,prakash.choudhury1040@uni.in,+91-8180579103
+1041,Ankit,Das,M,Mechanical,2,ankit.das1041@uni.in,+91-8205927777
+1042,Vikram,Nayak,M,English,5,vikram.nayak1042@uni.in,+91-8418998390
+1043,Ramesh,Sharma,M,Mechanical,1,ramesh.sharma1043@uni.in,+91-7937691894
+1044,Shreya,Sharma,F,English,7,shreya.sharma1044@uni.in,+91-6939799736
+1045,Nitin,Choudhury,M,Civil,7,nitin.choudhury1045@uni.in,+91-8739962606
+1046,Riya,Singh,F,Civil,3,riya.singh1046@uni.in,+91-9962239768
+1047,Amit,Singh,M,Computer Science,2,amit.singh1047@uni.in,+91-6124326761
+1048,Nisha,Nayak,F,Physics,7,nisha.nayak1048@uni.in,+91-9222235958
+1049,Nitin,Patel,M,Electrical,6,nitin.patel1049@uni.in,+91-8945837954
+1050,Neha,Singh,F,Mechanical,1,neha.singh1050@uni.in,+91-9693477002
+1051,Anjali,Singh,F,Mechanical,8,anjali.singh1051@uni.in,+91-6488491573
+1052,Kavya,Nayak,F,Mechanical,7,kavya.nayak1052@uni.in,+91-6033440138
+1053,Anjali,Das,F,Mathematics,1,anjali.das1053@uni.in,+91-9658670726
+1054,Nisha,Mishra,F,Mathematics,1,nisha.mishra1054@uni.in,+91-6958062294
+1055,Aishwarya,Das,F,Mathematics,6,aishwarya.das1055@uni.in,+91-8593388075
+1056,Pooja,Gupta,F,Electrical,6,pooja.gupta1056@uni.in,+91-9949845219
+1057,Prakash,Iyer,M,Civil,8,prakash.iyer1057@uni.in,+91-9823569376
+1058,Nitin,Verma,M,English,7,nitin.verma1058@uni.in,+91-9292332222
+1059,Suresh,Reddy,M,Civil,4,suresh.reddy1059@uni.in,+91-8325883903
+1060,Pooja,Das,F,Civil,6,pooja.das1060@uni.in,+91-8577242233
+1061,Shreya,Choudhury,F,Electrical,3,shreya.choudhury1061@uni.in,+91-8353420296
+1062,Priya,Iyer,F,Data Science,6,priya.iyer1062@uni.in,+91-7837897127
+1063,Kavya,Mishra,F,Electrical,3,kavya.mishra1063@uni.in,+91-7932965810
+1064,Rahul,Kumar,M,Data Science,8,rahul.kumar1064@uni.in,+91-7535402451
+1065,Vikram,Mishra,M,Civil,2,vikram.mishra1065@uni.in,+91-9498912141
+1066,Pooja,Verma,F,Civil,6,pooja.verma1066@uni.in,+91-7801079900
+1067,Suresh,Patel,M,Electrical,8,suresh.patel1067@uni.in,+91-7914234421
+1068,Nisha,Sharma,F,Computer Science,1,nisha.sharma1068@uni.in,+91-6895924316
+1069,Sandeep,Patel,M,Computer Science,8,sandeep.patel1069@uni.in,+91-6374594956
+1070,Kavya,Patel,F,Mechanical,3,kavya.patel1070@uni.in,+91-9690765283
+1071,Prakash,Das,M,Data Science,8,prakash.das1071@uni.in,+91-9931254632
+1072,Sneha,Das,F,Physics,4,sneha.das1072@uni.in,+91-6977034102
+1073,Sandeep,Reddy,M,English,5,sandeep.reddy1073@uni.in,+91-6148636095
+1074,Aishwarya,Singh,F,English,6,aishwarya.singh1074@uni.in,+91-9503551540
+1075,Rahul,Patel,M,Mechanical,6,rahul.patel1075@uni.in,+91-6207344083
+1076,Riya,Iyer,F,Civil,1,riya.iyer1076@uni.in,+91-9627629012
+1077,Amit,Singh,M,Mathematics,4,amit.singh1077@uni.in,+91-9395323306
+1078,Pooja,Singh,F,Physics,2,pooja.singh1078@uni.in,+91-7398381435
+1079,Sandeep,Das,M,Physics,6,sandeep.das1079@uni.in,+91-9548709682
+1080,Kavya,Choudhury,F,Civil,7,kavya.choudhury1080@uni.in,+91-9427819710
+1081,Divya,Mishra,F,English,7,divya.mishra1081@uni.in,+91-8775515038
+1082,Shreya,Verma,F,Physics,8,shreya.verma1082@uni.in,+91-9242694375
+1083,Neha,Das,F,Mathematics,3,neha.das1083@uni.in,+91-8153004075
+1084,Anjali,Das,F,English,3,anjali.das1084@uni.in,+91-8232262449
+1085,Kunal,Choudhury,M,English,8,kunal.choudhury1085@uni.in,+91-6055393648
+1086,Rahul,Choudhury,M,Mechanical,2,rahul.choudhury1086@uni.in,+91-9083702128
+1087,Kunal,Verma,M,English,3,kunal.verma1087@uni.in,+91-8308413713
+1088,Vikram,Verma,M,English,6,vikram.verma1088@uni.in,+91-8055546690
+1089,Neha,Patel,F,Mechanical,1,neha.patel1089@uni.in,+91-7443764254
+1090,Amit,Iyer,M,Mechanical,1,amit.iyer1090@uni.in,+91-9558950133
+1091,Prakash,Patel,M,Physics,4,prakash.patel1091@uni.in,+91-7480624820
+1092,Nisha,Gupta,F,English,6,nisha.gupta1092@uni.in,+91-9592855617
+1093,Ramesh,Patel,M,Civil,8,ramesh.patel1093@uni.in,+91-9332862380
+1094,Manish,Iyer,M,Computer Science,8,manish.iyer1094@uni.in,+91-8539225578
+1095,Kunal,Iyer,M,Civil,8,kunal.iyer1095@uni.in,+91-7208248257
+1096,Ankit,Das,M,Physics,4,ankit.das1096@uni.in,+91-9771854484
+1097,Shreya,Iyer,F,Computer Science,6,shreya.iyer1097@uni.in,+91-9385484384
+1098,Rohit,Kumar,M,Mechanical,2,rohit.kumar1098@uni.in,+91-6546694858
+1099,Kunal,Das,M,Data Science,4,kunal.das1099@uni.in,+91-6462424989
+1100,Ramesh,Kumar,M,Electrical,1,ramesh.kumar1100@uni.in,+91-7602570621
+1101,Riya,Nayak,F,Mechanical,2,riya.nayak1101@uni.in,+91-9984672100
+1102,Ankit,Choudhury,M,Computer Science,6,ankit.choudhury1102@uni.in,+91-9698068804
+1103,Suresh,Choudhury,M,English,8,suresh.choudhury1103@uni.in,+91-8179826267
+1104,Ramesh,Mishra,M,Civil,2,ramesh.mishra1104@uni.in,+91-8215151774
+1105,Arjun,Iyer,M,English,8,arjun.iyer1105@uni.in,+91-8474937678
+1106,Meena,Choudhury,F,Physics,7,meena.choudhury1106@uni.in,+91-7218536581
+1107,Nitin,Sharma,M,Computer Science,6,nitin.sharma1107@uni.in,+91-9844003442
+1108,Sneha,Reddy,F,Civil,4,sneha.reddy1108@uni.in,+91-8313801909
+1109,Neha,Singh,F,Mechanical,4,neha.singh1109@uni.in,+91-8776393143
+1110,Amit,Kumar,M,Data Science,2,amit.kumar1110@uni.in,+91-7624898789
+1111,Pooja,Nayak,F,Mechanical,4,pooja.nayak1111@uni.in,+91-6265331785
+1112,Rahul,Choudhury,M,Mechanical,3,rahul.choudhury1112@uni.in,+91-7197568418
+1113,Aishwarya,Choudhury,F,Data Science,3,aishwarya.choudhury1113@uni.in,+91-8228096250
+1114,Aishwarya,Kumar,F,Computer Science,6,aishwarya.kumar1114@uni.in,+91-6126368496
+1115,Priya,Gupta,F,English,2,priya.gupta1115@uni.in,+91-6261509314
+1116,Ankit,Mishra,M,Electrical,7,ankit.mishra1116@uni.in,+91-9400938820
+1117,Vikram,Iyer,M,Mechanical,7,vikram.iyer1117@uni.in,+91-7859915068
+1118,Aishwarya,Das,F,Mathematics,2,aishwarya.das1118@uni.in,+91-7585256981
+1119,Shreya,Reddy,F,Mechanical,2,shreya.reddy1119@uni.in,+91-6947091033
+1120,Neha,Das,F,Electrical,4,neha.das1120@uni.in,+91-6820208231
+1121,Anjali,Nayak,F,Civil,5,anjali.nayak1121@uni.in,+91-6032106372
+1122,Rahul,Iyer,M,Mechanical,8,rahul.iyer1122@uni.in,+91-8349867124
+1123,Neha,Reddy,F,Physics,4,neha.reddy1123@uni.in,+91-8826128763
+1124,Kunal,Patel,M,Mathematics,4,kunal.patel1124@uni.in,+91-7282790536
+1125,Suresh,Iyer,M,Data Science,3,suresh.iyer1125@uni.in,+91-9167858243
+1126,Pooja,Reddy,F,Civil,1,pooja.reddy1126@uni.in,+91-8354624331
+1127,Kunal,Sharma,M,Electrical,4,kunal.sharma1127@uni.in,+91-6546767772
+1128,Amit,Kumar,M,Mathematics,4,amit.kumar1128@uni.in,+91-9609667844
+1129,Nitin,Choudhury,M,Data Science,3,nitin.choudhury1129@uni.in,+91-9741061604
+1130,Kunal,Iyer,M,Computer Science,4,kunal.iyer1130@uni.in,+91-7808355119
+1131,Pooja,Mishra,F,Mechanical,6,pooja.mishra1131@uni.in,+91-8074148988
+1132,Kavya,Iyer,F,Physics,5,kavya.iyer1132@uni.in,+91-7214266201
+1133,Divya,Verma,F,Physics,6,divya.verma1133@uni.in,+91-8569470325
+1134,Ankit,Singh,M,Physics,5,ankit.singh1134@uni.in,+91-9025873923
+1135,Sandeep,Gupta,M,English,1,sandeep.gupta1135@uni.in,+91-6371106520
+1136,Kunal,Iyer,M,English,1,kunal.iyer1136@uni.in,+91-8615767364
+1137,Kunal,Kumar,M,Computer Science,3,kunal.kumar1137@uni.in,+91-9417426013
+1138,Amit,Singh,M,Mechanical,8,amit.singh1138@uni.in,+91-6052920364
+1139,Nisha,Iyer,F,Mechanical,5,nisha.iyer1139@uni.in,+91-6789694612
+1140,Sneha,Iyer,F,English,3,sneha.iyer1140@uni.in,+91-6275234624
+1141,Vikram,Iyer,M,Mathematics,1,vikram.iyer1141@uni.in,+91-6579035962
+1142,Pooja,Patel,F,Computer Science,5,pooja.patel1142@uni.in,+91-9881084890
+1143,Divya,Reddy,F,Mechanical,7,divya.reddy1143@uni.in,+91-9758017108
+1144,Sandeep,Sharma,M,Electrical,6,sandeep.sharma1144@uni.in,+91-9743819585
+1145,Nisha,Das,F,Mechanical,4,nisha.das1145@uni.in,+91-6594796770
+1146,Ankit,Kumar,M,Mechanical,4,ankit.kumar1146@uni.in,+91-9361693674
+1147,Rahul,Singh,M,Mathematics,3,rahul.singh1147@uni.in,+91-8249898479
+1148,Arjun,Choudhury,M,Data Science,5,arjun.choudhury1148@uni.in,+91-8430154616
+1149,Rahul,Gupta,M,English,6,rahul.gupta1149@uni.in,+91-9694117300
+1150,Riya,Verma,F,Mechanical,7,riya.verma1150@uni.in,+91-8039125215
+1151,Suresh,Verma,M,Data Science,1,suresh.verma1151@uni.in,+91-8338441103
+1152,Shreya,Mishra,F,Computer Science,4,shreya.mishra1152@uni.in,+91-7316978001
+1153,Pooja,Nayak,F,Civil,7,pooja.nayak1153@uni.in,+91-8307495422
+1154,Sneha,Das,F,Mechanical,6,sneha.das1154@uni.in,+91-8005927655
+1155,Anjali,Choudhury,F,Mechanical,6,anjali.choudhury1155@uni.in,+91-8420253125
+1156,Suresh,Sharma,M,Computer Science,5,suresh.sharma1156@uni.in,+91-9566142697
+1157,Rohit,Kumar,M,English,3,rohit.kumar1157@uni.in,+91-7673366271
+1158,Riya,Choudhury,F,Electrical,2,riya.choudhury1158@uni.in,+91-6965677679
+1159,Priya,Verma,F,Mathematics,8,priya.verma1159@uni.in,+91-6480348300
+1160,Ramesh,Mishra,M,Electrical,2,ramesh.mishra1160@uni.in,+91-9956392917
+1161,Vikram,Gupta,M,Physics,5,vikram.gupta1161@uni.in,+91-8087432598
+1162,Pooja,Gupta,F,Computer Science,4,pooja.gupta1162@uni.in,+91-6334732069
+1163,Nisha,Patel,F,Computer Science,1,nisha.patel1163@uni.in,+91-6566038908
+1164,Kunal,Choudhury,M,English,4,kunal.choudhury1164@uni.in,+91-7040400240
+1165,Arjun,Nayak,M,Civil,6,arjun.nayak1165@uni.in,+91-7067727305
+1166,Aishwarya,Verma,F,Computer Science,7,aishwarya.verma1166@uni.in,+91-9782667645
+1167,Divya,Reddy,F,Civil,6,divya.reddy1167@uni.in,+91-7573024042
+1168,Aishwarya,Nayak,F,Data Science,7,aishwarya.nayak1168@uni.in,+91-8104539874
+1169,Ramesh,Das,M,English,2,ramesh.das1169@uni.in,+91-9619016327
+1170,Amit,Verma,M,Electrical,3,amit.verma1170@uni.in,+91-9295820851
+1171,Aishwarya,Iyer,F,English,5,aishwarya.iyer1171@uni.in,+91-6768680862
+1172,Pooja,Mishra,F,Data Science,2,pooja.mishra1172@uni.in,+91-8617988610
+1173,Suresh,Choudhury,M,English,8,suresh.choudhury1173@uni.in,+91-6202742931
+1174,Amit,Gupta,M,Physics,8,amit.gupta1174@uni.in,+91-9733413508
+1175,Nisha,Sharma,F,Mathematics,1,nisha.sharma1175@uni.in,+91-8423668962
+1176,Rohit,Gupta,M,Mathematics,4,rohit.gupta1176@uni.in,+91-7456740978
+1177,Ramesh,Patel,M,English,8,ramesh.patel1177@uni.in,+91-6909282485
+1178,Prakash,Mishra,M,Electrical,2,prakash.mishra1178@uni.in,+91-6909350930
+1179,Sneha,Verma,F,Data Science,6,sneha.verma1179@uni.in,+91-7361618874
+1180,Ramesh,Singh,M,English,3,ramesh.singh1180@uni.in,+91-9171560872
+1181,Rohit,Das,M,Data Science,3,rohit.das1181@uni.in,+91-9861798436
+1182,Ankit,Singh,M,Physics,6,ankit.singh1182@uni.in,+91-9667612940
+1183,Rahul,Das,M,Civil,2,rahul.das1183@uni.in,+91-8495819866
+1184,Arjun,Reddy,M,English,3,arjun.reddy1184@uni.in,+91-6231504911
+1185,Anjali,Verma,F,Data Science,8,anjali.verma1185@uni.in,+91-6874821552
+1186,Neha,Gupta,F,Data Science,8,neha.gupta1186@uni.in,+91-6443111385
+1187,Vikram,Das,M,Data Science,8,vikram.das1187@uni.in,+91-9470098904
+1188,Sneha,Iyer,F,Electrical,5,sneha.iyer1188@uni.in,+91-9225954918
+1189,Sneha,Nayak,F,Civil,8,sneha.nayak1189@uni.in,+91-9325867554
+1190,Vikram,Reddy,M,Civil,5,vikram.reddy1190@uni.in,+91-7681078763
+1191,Anjali,Gupta,F,Mechanical,4,anjali.gupta1191@uni.in,+91-6766002787
+1192,Suresh,Mishra,M,Mathematics,6,suresh.mishra1192@uni.in,+91-9120836508
+1193,Rohit,Kumar,M,Data Science,2,rohit.kumar1193@uni.in,+91-6160191094
+1194,Meena,Singh,F,Electrical,7,meena.singh1194@uni.in,+91-7089680395
+1195,Riya,Choudhury,F,Physics,8,riya.choudhury1195@uni.in,+91-6929597080
+1196,Nitin,Singh,M,Civil,2,nitin.singh1196@uni.in,+91-8344032567
+1197,Amit,Patel,M,Electrical,5,amit.patel1197@uni.in,+91-7002459916
+1198,Rohit,Sharma,M,Mathematics,2,rohit.sharma1198@uni.in,+91-8942907744
+1199,Sneha,Nayak,F,English,1,sneha.nayak1199@uni.in,+91-7622587592
+1200,Nitin,Das,M,Mathematics,5,nitin.das1200@uni.in,+91-6783847707
+1201,Prakash,Singh,M,Mechanical,7,prakash.singh1201@uni.in,+91-6475029115
+1202,Nisha,Patel,F,English,7,nisha.patel1202@uni.in,+91-9342501334
+1203,Suresh,Choudhury,M,Physics,3,suresh.choudhury1203@uni.in,+91-7703821434
+1204,Kunal,Sharma,M,Physics,3,kunal.sharma1204@uni.in,+91-8703238445
+1205,Ramesh,Choudhury,M,Physics,3,ramesh.choudhury1205@uni.in,+91-7356529333
+1206,Nitin,Gupta,M,Computer Science,1,nitin.gupta1206@uni.in,+91-8188184890
+1207,Manish,Sharma,M,English,5,manish.sharma1207@uni.in,+91-8690533509
+1208,Ankit,Das,M,Data Science,3,ankit.das1208@uni.in,+91-8469679639
+1209,Rahul,Reddy,M,Computer Science,8,rahul.reddy1209@uni.in,+91-7048535877
+1210,Prakash,Iyer,M,Civil,5,prakash.iyer1210@uni.in,+91-7006286371
+1211,Prakash,Singh,M,Computer Science,6,prakash.singh1211@uni.in,+91-8899372742
+1212,Manish,Singh,M,Civil,1,manish.singh1212@uni.in,+91-7031725944
+1213,Riya,Gupta,F,Civil,4,riya.gupta1213@uni.in,+91-9333008943
+1214,Priya,Sharma,F,Computer Science,1,priya.sharma1214@uni.in,+91-7230571289
+1215,Anjali,Sharma,F,Mathematics,5,anjali.sharma1215@uni.in,+91-9438026649
+1216,Neha,Singh,F,Mechanical,6,neha.singh1216@uni.in,+91-8659822589
+1217,Sandeep,Sharma,M,Physics,2,sandeep.sharma1217@uni.in,+91-8838718845
+1218,Ramesh,Kumar,M,Civil,5,ramesh.kumar1218@uni.in,+91-7599969931
+1219,Ramesh,Iyer,M,Electrical,4,ramesh.iyer1219@uni.in,+91-8951213277
+1220,Rahul,Mishra,M,Mathematics,3,rahul.mishra1220@uni.in,+91-8074272753
+1221,Riya,Kumar,F,Mechanical,3,riya.kumar1221@uni.in,+91-8827672891
+1222,Aishwarya,Patel,F,Electrical,8,aishwarya.patel1222@uni.in,+91-8373116605
+1223,Anjali,Kumar,F,Civil,2,anjali.kumar1223@uni.in,+91-9535151156
+1224,Riya,Choudhury,F,Civil,8,riya.choudhury1224@uni.in,+91-9140780292
+1225,Nitin,Gupta,M,Electrical,4,nitin.gupta1225@uni.in,+91-6835003748
+1226,Nisha,Gupta,F,Electrical,1,nisha.gupta1226@uni.in,+91-6233120226
+1227,Kavya,Sharma,F,English,4,kavya.sharma1227@uni.in,+91-8973124672
+1228,Riya,Iyer,F,Data Science,5,riya.iyer1228@uni.in,+91-8157943944
+1229,Vikram,Kumar,M,Data Science,5,vikram.kumar1229@uni.in,+91-9241594162
+1230,Vikram,Singh,M,English,5,vikram.singh1230@uni.in,+91-8585831838
+1231,Vikram,Patel,M,Mechanical,8,vikram.patel1231@uni.in,+91-7055991153
+1232,Pooja,Kumar,F,Physics,6,pooja.kumar1232@uni.in,+91-9933754951
+1233,Amit,Mishra,M,Computer Science,5,amit.mishra1233@uni.in,+91-8916463947
+1234,Pooja,Gupta,F,Civil,1,pooja.gupta1234@uni.in,+91-8264289722
+1235,Sandeep,Reddy,M,Electrical,8,sandeep.reddy1235@uni.in,+91-6777322795
+1236,Kunal,Patel,M,Physics,1,kunal.patel1236@uni.in,+91-7512749545
+1237,Rahul,Patel,M,Civil,8,rahul.patel1237@uni.in,+91-8231024261
+1238,Aishwarya,Patel,F,Computer Science,3,aishwarya.patel1238@uni.in,+91-9292058198
+1239,Pooja,Das,F,Mathematics,4,pooja.das1239@uni.in,+91-8180572517
+1240,Shreya,Mishra,F,Computer Science,2,shreya.mishra1240@uni.in,+91-6056629287
+1241,Divya,Nayak,F,Physics,5,divya.nayak1241@uni.in,+91-7835191777
+1242,Anjali,Nayak,F,Computer Science,5,anjali.nayak1242@uni.in,+91-9844752994
+1243,Rahul,Mishra,M,Computer Science,1,rahul.mishra1243@uni.in,+91-6629205988
+1244,Nisha,Das,F,Data Science,1,nisha.das1244@uni.in,+91-9890959791
+1245,Ankit,Verma,M,Mechanical,4,ankit.verma1245@uni.in,+91-6921022048
+1246,Prakash,Verma,M,Electrical,8,prakash.verma1246@uni.in,+91-9283166011
+1247,Priya,Sharma,F,Data Science,2,priya.sharma1247@uni.in,+91-9830162652
+1248,Divya,Gupta,F,Data Science,7,divya.gupta1248@uni.in,+91-9396321500
+1249,Sneha,Mishra,F,Mathematics,6,sneha.mishra1249@uni.in,+91-6440230576
+1250,Divya,Mishra,F,Data Science,2,divya.mishra1250@uni.in,+91-8833667736
+1251,Sneha,Kumar,F,Electrical,3,sneha.kumar1251@uni.in,+91-9690445081
+1252,Sandeep,Patel,M,Mathematics,1,sandeep.patel1252@uni.in,+91-6491771019
+1253,Vikram,Patel,M,Mechanical,7,vikram.patel1253@uni.in,+91-6758613248
+1254,Shreya,Gupta,F,English,1,shreya.gupta1254@uni.in,+91-7705655351
+1255,Sandeep,Singh,M,Civil,4,sandeep.singh1255@uni.in,+91-6141669796
+1256,Rohit,Kumar,M,Computer Science,8,rohit.kumar1256@uni.in,+91-8259876408
+1257,Vikram,Gupta,M,Mathematics,3,vikram.gupta1257@uni.in,+91-7475274301
+1258,Riya,Iyer,F,Data Science,4,riya.iyer1258@uni.in,+91-7362205554
+1259,Arjun,Patel,M,Mechanical,1,arjun.patel1259@uni.in,+91-7303827475
+1260,Meena,Kumar,F,Data Science,6,meena.kumar1260@uni.in,+91-7914986823
+1261,Priya,Singh,F,Mathematics,2,priya.singh1261@uni.in,+91-7484488760
+1262,Prakash,Singh,M,Mathematics,6,prakash.singh1262@uni.in,+91-8454071243
+1263,Shreya,Iyer,F,Civil,6,shreya.iyer1263@uni.in,+91-7012634936
+1264,Kunal,Kumar,M,Data Science,1,kunal.kumar1264@uni.in,+91-7431301826
+1265,Nisha,Reddy,F,Computer Science,8,nisha.reddy1265@uni.in,+91-8216240705
+1266,Sneha,Mishra,F,Physics,1,sneha.mishra1266@uni.in,+91-7227259037
+1267,Riya,Reddy,F,Mechanical,2,riya.reddy1267@uni.in,+91-9941662061
+1268,Sneha,Sharma,F,Computer Science,5,sneha.sharma1268@uni.in,+91-9017685904
+1269,Sandeep,Reddy,M,Mechanical,5,sandeep.reddy1269@uni.in,+91-7454067163
+1270,Shreya,Kumar,F,Data Science,4,shreya.kumar1270@uni.in,+91-8756912983
+1271,Ramesh,Mishra,M,Computer Science,4,ramesh.mishra1271@uni.in,+91-9399144256
+1272,Ramesh,Gupta,M,Electrical,5,ramesh.gupta1272@uni.in,+91-8353795668
+1273,Sandeep,Iyer,M,Electrical,8,sandeep.iyer1273@uni.in,+91-8596909976
+1274,Manish,Gupta,M,Civil,2,manish.gupta1274@uni.in,+91-9961062657
+1275,Priya,Choudhury,F,Data Science,5,priya.choudhury1275@uni.in,+91-8089451881
+1276,Kavya,Reddy,F,Mathematics,7,kavya.reddy1276@uni.in,+91-8413287403
+1277,Divya,Patel,F,Data Science,6,divya.patel1277@uni.in,+91-7458187446
+1278,Sneha,Reddy,F,English,6,sneha.reddy1278@uni.in,+91-8462681811
+1279,Amit,Reddy,M,Electrical,3,amit.reddy1279@uni.in,+91-6393572050
+1280,Amit,Gupta,M,English,4,amit.gupta1280@uni.in,+91-6476847577
+1281,Shreya,Mishra,F,Electrical,2,shreya.mishra1281@uni.in,+91-7926874999
+1282,Kunal,Nayak,M,Physics,5,kunal.nayak1282@uni.in,+91-9342089318
+1283,Sneha,Reddy,F,Physics,5,sneha.reddy1283@uni.in,+91-7973197531
+1284,Kunal,Patel,M,Physics,1,kunal.patel1284@uni.in,+91-9928807672
+1285,Vikram,Kumar,M,Computer Science,3,vikram.kumar1285@uni.in,+91-6899116027
+1286,Kunal,Sharma,M,Mechanical,3,kunal.sharma1286@uni.in,+91-6011127625
+1287,Vikram,Reddy,M,Mechanical,2,vikram.reddy1287@uni.in,+91-9080176149
+1288,Vikram,Reddy,M,Civil,8,vikram.reddy1288@uni.in,+91-8708707984
+1289,Manish,Choudhury,M,Physics,2,manish.choudhury1289@uni.in,+91-9160843250
+1290,Priya,Mishra,F,Data Science,2,priya.mishra1290@uni.in,+91-8319769100
+1291,Ankit,Mishra,M,Mechanical,2,ankit.mishra1291@uni.in,+91-7337122295
+1292,Kunal,Mishra,M,Mathematics,4,kunal.mishra1292@uni.in,+91-6449371910
+1293,Kunal,Gupta,M,Computer Science,5,kunal.gupta1293@uni.in,+91-8143300593
+1294,Kavya,Iyer,F,Computer Science,3,kavya.iyer1294@uni.in,+91-9888991399
+1295,Aishwarya,Choudhury,F,Civil,1,aishwarya.choudhury1295@uni.in,+91-9573540705
+1296,Vikram,Sharma,M,Mathematics,2,vikram.sharma1296@uni.in,+91-8605439532
+1297,Aishwarya,Iyer,F,Civil,1,aishwarya.iyer1297@uni.in,+91-7270311622
+1298,Kunal,Mishra,M,Physics,2,kunal.mishra1298@uni.in,+91-7165426492
+1299,Arjun,Sharma,M,Electrical,8,arjun.sharma1299@uni.in,+91-9862728398
+1300,Prakash,Nayak,M,Physics,5,prakash.nayak1300@uni.in,+91-8744486215
